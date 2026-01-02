@@ -1,9 +1,9 @@
-import { GraduationCap } from 'lucide-react';
+iimport { GraduationCap } from 'lucide-react';
 
 const education = [
   {
     degree: "B.Tech in Computer Science",
-    institution: "J.B. Institute of Technology",
+    institution: "J.B. Institute of Engineering and Technology",
     score: "CGPA: 8.97",
     year: "2023-2027",
     current: true
