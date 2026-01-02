@@ -1,4 +1,4 @@
-iimport { GraduationCap } from 'lucide-react';
+import { GraduationCap } from 'lucide-react';
 
 const education = [
   {
